@@ -1,0 +1,17 @@
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\bin\Debug\netstandard2.0\Audio_Guide.deps.json
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\bin\Debug\netstandard2.0\Audio_Guide.dll
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\bin\Debug\netstandard2.0\ref\Audio_Guide.dll
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\bin\Debug\netstandard2.0\Audio_Guide.pdb
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Audio_Guide.csprojAssemblyReference.cache
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Audio_Guide.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Audio_Guide.AssemblyInfo.cs
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Audio_Guide.dll
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\ref\Audio_Guide.dll
+C:\Users\marvi\source\repos\Audio_Guide\Audio_Guide\Audio_Guide\obj\Debug\netstandard2.0\Audio_Guide.pdb
