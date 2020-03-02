@@ -1,0 +1,7 @@
+C:\Users\Princess\source\repos\PopupDemo\PopupDemo\PopupDemo\bin\Debug\netstandard2.0\PopupDemo.deps.json
+C:\Users\Princess\source\repos\PopupDemo\PopupDemo\PopupDemo\bin\Debug\netstandard2.0\PopupDemo.dll
+C:\Users\Princess\source\repos\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.csprojAssemblyReference.cache
+C:\Users\Princess\source\repos\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Princess\source\repos\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Princess\source\repos\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.AssemblyInfoInputs.cache
+C:\Users\Princess\source\repos\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.AssemblyInfo.cs

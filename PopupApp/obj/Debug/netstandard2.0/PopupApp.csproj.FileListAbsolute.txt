@@ -1,0 +1,8 @@
+C:\Users\Princess\source\repos\PopupApp\PopupApp\PopupApp\bin\Debug\netstandard2.0\PopupApp.deps.json
+C:\Users\Princess\source\repos\PopupApp\PopupApp\PopupApp\bin\Debug\netstandard2.0\PopupApp.dll
+C:\Users\Princess\source\repos\PopupApp\PopupApp\PopupApp\obj\Debug\netstandard2.0\PopupApp.csprojAssemblyReference.cache
+C:\Users\Princess\source\repos\PopupApp\PopupApp\PopupApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Princess\source\repos\PopupApp\PopupApp\PopupApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Princess\source\repos\PopupApp\PopupApp\PopupApp\obj\Debug\netstandard2.0\PopupView.xaml.g.cs
+C:\Users\Princess\source\repos\PopupApp\PopupApp\PopupApp\obj\Debug\netstandard2.0\PopupApp.AssemblyInfoInputs.cache
+C:\Users\Princess\source\repos\PopupApp\PopupApp\PopupApp\obj\Debug\netstandard2.0\PopupApp.AssemblyInfo.cs
